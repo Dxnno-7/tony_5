@@ -4,7 +4,8 @@
     <title>Papeleria Tony - Equipo 5</title>
 </head>
 <body>
-    <h1>Bienvenidos a Papeleria Tony</h1>
+    <h1>Bienvenidos a Papeleria Tony</h1>7
+    <p>Aquí encontrarás los mejores productos.</p>
 
     <nav>
         <a href="index.php">Inicio</a> | 

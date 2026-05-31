@@ -5,7 +5,7 @@ if ($_POST) {
     $user = $_POST['usuario'];
     $pass = $_POST['password'];
 
-    if ($user == "24160817@itoaxaca.edu.mx" && $pass == "24160817TSO") {
+    if ($user == "24160817@itoaxaca.edu.mx" && $pass == "24160817") {
         $_SESSION['login'] = true;
         header("Location: admin.php");
     } else { 

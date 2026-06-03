@@ -32,7 +32,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Iniciar sesión – Papelería Tony</title>
+  <title>iniciar sesión - Papelería Tony</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Sans:wght@400;500&display=swap" rel="stylesheet">
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -242,7 +242,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <main>
     <div class="card">
       <div class="card-header">
-        <h1>Bienvenido</h1>
+        <h1>Tercera Oportunidad - 4SC - ADSV</h1>
         <p>Inicia sesión en tu cuenta del sistema</p>
       </div>
 
